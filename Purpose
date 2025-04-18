@@ -1,0 +1,11 @@
+Purpose: This repo includes tools to help process and understand the price transparency data from healthcare providers, such as hospital charges, insurance payments, and discounted rates.
+
+Features:
+
+Data cleaning and transformation scripts
+
+Analysis on billing codes (like CPT codes), prices, and payer information
+
+Visualizations that explain price breakdowns
+
+Integrates with Python and Pandas for data manipulation
